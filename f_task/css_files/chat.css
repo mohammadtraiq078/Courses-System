@@ -1,0 +1,36 @@
+
+
+#usrs_ftch{
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+/* #chat-box{
+    float: right;
+    border: 1px;
+    width: 500px;
+    height: 600px;
+    margin-right: 200px;
+   
+} */
+#insert-message{
+    border-radius: 0%;
+    width: 500px;
+}
+#msg-body{
+width: 500px;
+height: 500px;
+border-radius: 0%;
+overflow-y: scroll; 
+overflow-x: hidden;
+}
+#msg-header{
+    width: 500px;
+    border-radius: 0%;
+}
+#send_btn{
+    width: 100px;
+    
+}
+/* #txt_erea{} */

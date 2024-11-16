@@ -1,0 +1,19 @@
+#reg_div{
+    margin-top: 100px;
+    width: 500px;
+    height: 670px;
+    background-color: rgb(232, 250, 244);
+    border-radius: 20px;
+    color: rgb(69, 116, 245);
+}
+#form_reg{
+    width: 400px;
+    padding-top: 90px;
+}
+
+#h_1{
+    padding-top: 50px;
+}
+#p_1{
+    padding-top: 50px;
+}
